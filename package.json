@@ -1,0 +1,24 @@
+{
+  "name": "dealers_choice_js",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpichardo1/dealers_choice_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hpichardo1/dealers_choice_js/issues"
+  },
+  "homepage": "https://github.com/hpichardo1/dealers_choice_js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
